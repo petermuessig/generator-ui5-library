@@ -1,6 +1,6 @@
 {
   "name": "generator-ui5-library",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "Generator for UI5 libraries",
   "homepage": "https://github.com/geert-janklaps/generator-ui5-library",
   "author": {
@@ -36,6 +36,7 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "glob": "^7.1.6",
+    "semver": "^7.3.4",
     "yeoman-generator": "^2.0.1",
     "yosay": "^2.0.1"
   },
